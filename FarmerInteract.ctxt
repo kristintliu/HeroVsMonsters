@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FarmerInteract
+comment1.params=hero\ farmerNum\ monstersKilled
+comment1.target=FarmerInteract(Hero,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ hasArmor()
+numComments=3

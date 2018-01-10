@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=
+comment1.target=Monster()
+comment2.params=
+comment2.target=int\ getMonsterSpeed()
+comment3.params=
+comment3.target=int\ getMonsterHealth()
+comment4.params=newAttack
+comment4.target=int\ setMonsterAttack(int)
+comment5.params=newHealth
+comment5.target=int\ setMonsterHealth(int)
+comment6.params=
+comment6.target=int\ getMonsterAttack()
+numComments=7
